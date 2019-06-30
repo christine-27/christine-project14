@@ -493,9 +493,9 @@ footer h4 {
 	.menu.navMenu {
 	    position: absolute;
 	    z-index: 9999;
-	    top: 14px;
+	    top: 9px;
 	    background: #000000c2;
-	    width: 72%;
+	    width: 70%;
 	}
 	header ul li {
 		display: block;
